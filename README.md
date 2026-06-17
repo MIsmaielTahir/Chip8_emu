@@ -5,7 +5,7 @@ Run in Command Prompt in the Chip_8 Folder and running the following command in 
 ```
 python3 Chip_8_Main.py <FILE>
 ```
-Where <FILE> is the game you wish to run. You can find most of the original Chip8 games online, and there are some already within the ROMS folder.
+Where `<FILE>` is the game you wish to run. You can find most of the original Chip8 games online, and there are some already within the ROMS folder.
 See [here](https://johnearnest.github.io/chip8Archive/) for some more ROMS.
 
 Acknowledgements + Sources
