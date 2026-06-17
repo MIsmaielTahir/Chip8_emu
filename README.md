@@ -1,7 +1,7 @@
 # Chip8_emu
 Simple Chip8 Emulator made in Python.
 
-Run in Command Prompt in the Chip_8 Folder and running the following command in Windows:
+Run in Windows Command Prompt in the same directory as the two main python files with the following command:
 ```
 python3 Chip_8_Main.py <FILE>
 ```
