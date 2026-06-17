@@ -9,6 +9,7 @@ Where <FILE> is the game you wish to run. You can find most of the original Chip
 See [here](https://johnearnest.github.io/chip8Archive/) for some more ROMS.
 
 Acknowledgements + Sources
+
 [CowGod's Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
 
 [How to write an emulator (multigesture.net)](https://multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
