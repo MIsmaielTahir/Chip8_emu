@@ -1,5 +1,5 @@
 # Chip8_emu
-Simple Chip8 Emulator made in Python.
+Chip8 Emulator made in Python.
 
 To run, download the two python files and have the ROMS folder in the same directory.
 
