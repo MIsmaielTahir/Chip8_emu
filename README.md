@@ -10,8 +10,11 @@ See [here](https://johnearnest.github.io/chip8Archive/) for some more ROMS.
 
 Acknowledgements + Sources
 [CowGod's Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
+
 [How to write an emulator (multigesture.net)](https://multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
+
 [chiefartificier's Chip 8 Emulator](https://github.com/chiefartificer/chip8/tree/master)-(Used as a general guide and refernce- mainly used for structuring OPcodes)
+
 [misa j's Chip 8 Emulator](https://github.com/misa-j/chip8-emulator) -(Used as general reference and as a guide to figuring out how to have timings with threads)
 
 
