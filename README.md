@@ -17,7 +17,7 @@ Acknowledgements + Sources
 
 [How to write an emulator (multigesture.net)](https://multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 
-[chiefartificier's Chip 8 Emulator](https://github.com/chiefartificer/chip8/tree/master)- Used as a general guide and refernce- mainly used for structuring OPcodes and figuring out how to draw sprites
+[chiefartificier's Chip 8 Emulator](https://github.com/chiefartificer/chip8/tree/master)- Used as a general guide and reference- mainly used for structuring OPcodes and figuring out how to draw sprites
 
 [misa j's Chip 8 Emulator](https://github.com/misa-j/chip8-emulator) - Used as general reference and as a guide to figuring out how to have timings with threads
 
